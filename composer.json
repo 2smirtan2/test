@@ -1,0 +1,11 @@
+{
+    "name": "smir/example",
+    "description": "example package",
+    "authors": [
+        {
+            "name": "2smirtan2",
+            "email": "tan.kov@hotmail.com"
+        }
+    ],
+    "require": {}
+}
