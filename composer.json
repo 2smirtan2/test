@@ -7,6 +7,11 @@
             "email": "tan.kov@hotmail.com"
         }
     ],
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
+    },
     "require": {
         "tightenco/collect": "^8.34"
     },
