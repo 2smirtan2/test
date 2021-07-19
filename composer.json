@@ -9,7 +9,9 @@
     ],
     "autoload": {
         "files": [
-            "src/Runner.php"
+            "src/Runner.php",
+            "src/StringUtil.php",
+            "tests/StringUtilsTest.php"
         ]
     },
     "require": {
